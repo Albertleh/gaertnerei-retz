@@ -1,4 +1,4 @@
 # website-gaertnerei-retz
-Website for a local business built with Wordpress as a CMS
+Website built for a local business specializing in gardening
 
 www.gaertnerei-retz.at
